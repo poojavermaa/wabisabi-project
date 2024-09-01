@@ -7,7 +7,7 @@ const FourthComponent = () => {
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 text-center p-4">
           <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif">Observation First, Intervention Later</p>
           <p className="text-white text-sm md:text-lg mt-2">We note that a teacher needs to be a good listener.</p>
-          <p className="text-white text-xs md:text-base mt-4 w-96">
+          <p className="text-white text-xs md:text-base mt-4 w-80">
             Our pursuit is to consciously nurture a space for you to observe,
             understand and introspect via the crafts and its local practices.
           </p>

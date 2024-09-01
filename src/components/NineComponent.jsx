@@ -14,7 +14,7 @@ const NineComponent = () => {
           <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif">
             Curious Case of a Designer
           </p>
-          <p className="text-white text-sm md:text-lg mt-2 w-[34rem]">
+          <p className="text-white text-sm md:text-lg mt-2 w-[24rem]">
             Are you a designer trying to make sense of the complex structural
             maza of craft production in India? The sheer degree of diversity and
             specialisation of works can be daunting.

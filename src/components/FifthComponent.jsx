@@ -13,7 +13,7 @@ const FifthComponent = () => {
           <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif">
             Tools
           </p>
-          <p className="text-white text-sm md:text-lg mt-2 w-[30rem]">
+          <p className="text-white text-sm md:text-lg mt-2 w-[24rem]">
             A large spectrum of craft tools at your disposal will enable
             translation of your thoughts and styles into a form on a cloth.
           </p>
