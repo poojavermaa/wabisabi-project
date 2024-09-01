@@ -6,7 +6,7 @@ const FifthComponent = () => {
       <div
         className="relative h-[85vh] bg-cover bg-center"
         style={{
-          backgroundImage: "url('src/components/grapes-3550733_1280.jpg')",
+          backgroundImage: "url('https://i.postimg.cc/Gt9txd04/grapes-3550733-1280.jpg')",
         }}
       >
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 text-center p-4">
