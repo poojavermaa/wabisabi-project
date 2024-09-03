@@ -5,7 +5,7 @@ const SecondComponent = () => {
     <>
       <div className="bg-[#972e34] p-4 sm:p-6 md:p-8 lg:p-10">
         <div className="flex flex-col md:flex-row">
-          <div className="md:w-[65%] w-full my-3 md:my-9 md:mx-8 lg:mx-28">
+          <div className="md:w-[65%] w-full my-3 md:my-9 md:mx-8 lg:mx-[6.3rem]">
             <p className="text-white opacity-65 text-lg md:text-xl font-semibold font-sans mb-4">
               We are a small team practicing and offering courses, workshops in
               traditional techniques in block printing and natural dyes. Over

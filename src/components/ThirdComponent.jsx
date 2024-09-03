@@ -175,12 +175,12 @@ const ThirdComponent = () => {
         </div>
         <div className="mx-[0.15rem] mb-6 lg:mt-6 lg:mb-0  md:mt-0">
           <img
-            className="w-[10rem] h-[14rem] lg:w-[14rem] lg:h-[18rem] hover:opacity-85"
-            src="https://wabisabiproject.com/media/galleries/workshops/natural-dye-delhi/Indigo_vat_dyeing.jpg"
+            className="w-[10rem] h-[14rem] lg:w-[14rem] lg:h-[18rem] hover:opacity-85 object-cover"
+            src="https://wabisabiproject.com/media/galleries/workshops/resist-printing/program_resist-printing_wax-printing-wabisabi-project.jpg"
             alt="img4"
           />
-          <p className="font-bold opacity-60">NATURAL INDIGO</p>
-          <p className="opacity-60">Delhi, Online</p>
+          <p className="font-bold opacity-60">RESIST PRINTING</p>
+          <p className="opacity-60">Bagru, Online</p>
         </div>
       </div>
 
