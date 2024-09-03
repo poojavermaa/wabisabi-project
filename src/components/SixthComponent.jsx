@@ -28,8 +28,8 @@ const SixthComponent = () => {
           <p className="text-white text-xl font-semibold font-sans mb-4">
              Take Away
           </p>
-          <p className="text-white text-xl font-semibold font-sans mb-4">
-            Take home waht you make.
+          <p className="text-white text-xl font-sans mb-4">
+            Take home what you make.
           </p>
           <p className="text-white text-xs w-[90%]">
             Cost of the workshops includes: course worksheet, dyeing fabric,

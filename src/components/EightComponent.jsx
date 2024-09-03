@@ -31,7 +31,7 @@ const EightComponent = () => {
           <p className="text-white text-xl font-semibold font-sans mb-4">
             At Your Schedule
           </p>
-          <p className="text-white text-xl font-semibold font-sans mb-4">
+          <p className="text-white text-xl font-sans mb-4">
             Tell us your preferred dates and we will organise a workshop for
             you.
           </p>
