@@ -10,8 +10,8 @@ const FirstComponent = () => {
       />
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="absolute inset-0 flex flex-col items-center justify-center p-4 lg:ml-12 md:ml-12">
-        <div className="flex items-center w-full">
-          <div className="lg:text-[3rem] md:text-6xl sm:text-[6rem] text-white text-center px-2 font-sans text-3xl font-thin">
+        <div className="flex items-center w-full mt-12">
+          <div className="lg:text-[3rem] md:text-6xl sm:text-[6rem] mt-4 text-white text-center px-2 font-sans text-3xl font-thin">
             WORKSHOPS
           </div>
           <div className="h-1 lg:w-[50rem] md:w-[20rem] sm:w-[10rem] w-full bg-white mt-3"></div>
