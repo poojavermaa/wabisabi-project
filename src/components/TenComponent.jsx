@@ -4,7 +4,7 @@ const TenComponent = () => {
     return(
         <>
             <div
-        className="relative h-[85vh] bg-cover bg-center"
+        className="relative h-[75vh] bg-cover bg-center"
         style={{
           backgroundImage:
             "url('https://wabisabiproject.com/media/galleries/workshops/fluff/fluff_11.jpg')",
@@ -14,7 +14,7 @@ const TenComponent = () => {
           <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif">
             Group Learning
           </p>
-          <p className="text-white text-sm md:text-lg mt-2 w-[24rem]">
+          <p className="text-white text-sm md:text-lg mt-2 w-[60%]">
             We encourage a learning space that enables one not only to learn but also to share, question, laugh and develop deep intersublective relations with it's co-learners from varied backgrounds.
           </p>
         </div>

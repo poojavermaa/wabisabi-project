@@ -4,7 +4,7 @@ const ElevenComponent = () => {
     return(
         <>
         <div
-        className="relative h-[85vh] bg-cover bg-center"
+        className="relative h-[75vh] bg-cover bg-center"
         style={{
           backgroundImage:
             "url('https://wabisabiproject.com/media/galleries/workshops/fluff/fluff_12.jpg')",

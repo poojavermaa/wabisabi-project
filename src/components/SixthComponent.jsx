@@ -4,7 +4,7 @@ const SixthComponent = () => {
   return (
     <>
       <div
-        className="relative h-[85vh] bg-cover bg-center"
+        className="relative h-[75vh] bg-cover bg-center"
         style={{
           backgroundImage:
             "url('https://wabisabiproject.com/media/galleries/workshops/fluff/fluff_03.jpg')",
@@ -17,7 +17,7 @@ const SixthComponent = () => {
           <p className="text-white text-sm md:text-lg mt-2">
             Take home waht you make.
           </p>
-          <p className="text-white text-sm md:text-lg mt-2 w-[24rem]">
+          <p className="text-white text-sm md:text-lg mt-2 w-[60%]">
             Cost of the workshops includes: course worksheet, dyeing fabric,
             dyestuff, chai with cool breezes in fields
           </p>

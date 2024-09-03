@@ -14,7 +14,7 @@ const Collection = () => {
     </div>
     <div className="relative">
       <img
-        className="w-full h-[85vh] object-cover"
+        className="w-full lg:h-[80vh] md:h-[50vh] sm:h-[80vh] bg-cover object-cover"
         src="https://wabisabiproject.com/media/galleries/collections/cover.jpg"
         alt="img"
       />

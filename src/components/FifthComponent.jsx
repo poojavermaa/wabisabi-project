@@ -4,7 +4,7 @@ const FifthComponent = () => {
   return (
     <>
       <div
-        className="relative h-[85vh] bg-cover bg-center"
+        className="relative h-[75vh] bg-cover bg-center"
         style={{
           backgroundImage: "url('https://i.postimg.cc/Gt9txd04/grapes-3550733-1280.jpg')",
         }}
@@ -13,7 +13,7 @@ const FifthComponent = () => {
           <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif">
             Tools
           </p>
-          <p className="text-white text-sm md:text-lg mt-2 w-[24rem]">
+          <p className="text-white text-sm md:text-lg mt-2 w-[50%]">
             A large spectrum of craft tools at your disposal will enable
             translation of your thoughts and styles into a form on a cloth.
           </p>

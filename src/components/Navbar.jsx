@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white text-black px-4 py-4 shadow-lg fixed top-0 left-0 w-full z-50">
       <div className="flex justify-between items-center">
-        <Link to="/"><div className="text-xl font-bold font-sans">WABISABI PROJECT</div></Link>
+        <Link to="/"><div className="text-xl font-bold font-mono">WABISABI PROJECT</div></Link>
         <div>
           <ul className="flex items-center">
             <Link to="/cart">

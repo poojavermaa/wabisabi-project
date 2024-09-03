@@ -3,11 +3,13 @@ import React from "react";
 const FourthComponent = () => {
   return (
     <>
-      <div className="relative bg-cover bg-center h-[85vh]" style={{ backgroundImage: "url('https://i.postimg.cc/Nf3qdBhW/office-620822-1280.jpg')" }}>
+      <div className="relative h-[75vh] bg-cover bg-center" style={{ backgroundImage: "url('https://i.postimg.cc/Nf3qdBhW/office-620822-1280.jpg')" }}>
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 text-center p-4">
-          <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif">Observation First, Intervention Later</p>
-          <p className="text-white text-sm md:text-lg mt-2">We note that a teacher needs to be a good listener.</p>
-          <p className="text-white text-xs md:text-base mt-4 w-80">
+          <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif flex justify-center">Observation First, Intervention Later</p>
+          <p className="text-white text-sm md:text-lg mt-2 flex justify-center">We note that a teacher needs to be a good listener.</p>
+          <p className="text-white text-xs md:text-base mt-4 w-[50%] flex justify-center">
+            Our pursuit is to consciously nurture a space for you to observe,
+            understand and introspect via the crafts and its local practices.
             Our pursuit is to consciously nurture a space for you to observe,
             understand and introspect via the crafts and its local practices.
           </p>
@@ -19,4 +21,3 @@ const FourthComponent = () => {
 };
 
 export default FourthComponent;
-

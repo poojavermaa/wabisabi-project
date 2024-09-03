@@ -4,7 +4,7 @@ const SeventhComponent = () => {
   return (
     <>
       <div
-        className="relative h-[85vh] bg-cover bg-center"
+        className="relative h-[75vh] bg-cover bg-center"
         style={{
           backgroundImage:
             "url('https://wabisabiproject.com/media/galleries/workshops/fluff/fluff_04.jpg')",
@@ -14,7 +14,7 @@ const SeventhComponent = () => {
           <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif">
             Our Studio
           </p>
-          <p className="text-white text-sm md:text-lg mt-2 w-[24rem] flex sm:flex-shrink-0">
+          <p className="text-white text-sm md:text-lg mt-2 w-[60%] flex sm:flex-shrink-0">
             The countryside location of our studio is designed to be healthy,
             comfortable, and welcoming. The design prioritizes oepn spaces for
             people can move around and socialize freely without feeling
