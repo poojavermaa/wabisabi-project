@@ -28,7 +28,7 @@ const ElevenComponent = () => {
           <p className="text-white text-xl font-semibold font-sans mb-4">
           What Does Not Look Glamorous
           </p>
-          <p className="text-white text-xl font-sans mb-4">
+          <p className="text-white text-lg font-sans mb-4">
           ...but should be done in a workshop!
           </p>
           <p className="text-white text-xs w-[90%]">

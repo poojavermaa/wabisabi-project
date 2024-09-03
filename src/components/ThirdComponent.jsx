@@ -98,16 +98,12 @@
 
 // export default ThirdComponent;
 
-
-
-
-
 import React from "react";
 
 const ThirdComponent = () => {
   return (
     <>
-      <div className="flex flex-col lg:flex-row my-6 lg:my-14 mx-4 lg:mx-32">
+      <div className="flex flex-col lg:flex-row my-6 lg:my-14 mx-4 lg:mx-[8rem]">
         <div className="flex flex-wrap justify-between items-center font-sans">
           <span className="px-3 text-xl lg:text-3xl opacity-55 hover:border-4 border-gray-500 transition-all ease-in duration-150">
             ALL
@@ -129,7 +125,9 @@ const ThirdComponent = () => {
             ONLINE
           </span>
           <span className="h-[0.15rem] w-full lg:w-52 bg-gray-400 px-3 mt-2 lg:mt-0"></span>
-          <span className="px-4 text-sm lg:text-md font-bold opacity-65 mt-2 lg:mt-0">LOCATION</span>
+          <span className="px-4 text-sm lg:text-md font-bold opacity-65 mt-2 lg:mt-0">
+            LOCATION
+          </span>
         </div>
       </div>
 
@@ -138,8 +136,8 @@ const ThirdComponent = () => {
         <span className="h-[0.10rem] w-full lg:w-[57rem] bg-gray-300"></span>
       </div>
 
-      <div className="flex flex-wrap justify-around mb-6 lg:mb-12 mx-2 lg:mx-32">
-        <div className="mx-2 mb-6 lg:mb-0">
+      <div className="flex flex-wrap justify-between mb-6 lg:mb-12 mx-2 lg:mx-[8.5rem]">
+        <div className="mx-[0.15rem] mb-6 lg:mb-0">
           <img
             className="w-[10rem] h-[14rem] lg:w-[14rem] lg:h-[18rem] hover:opacity-85"
             src="https://wabisabiproject.com/media/galleries/workshops/block-carving/program_block-carving_block-carving-Wabisabi-Project_a.jpg"
@@ -148,7 +146,7 @@ const ThirdComponent = () => {
           <p className="font-bold opacity-60">BLOCK CARVING</p>
           <p className="opacity-60">Jaipur</p>
         </div>
-        <div className="mx-2 mb-6 lg:mb-0">
+        <div className="mx-[0.15rem] mb-6 lg:mb-0">
           <img
             className="w-[10rem] h-[14rem] lg:w-[14rem] lg:h-[18rem] hover:opacity-85"
             src="https://wabisabiproject.com/media/galleries/workshops/block-printing/bagru_hand_%20block_prints.jpg"
@@ -157,7 +155,7 @@ const ThirdComponent = () => {
           <p className="font-bold opacity-60">BLOCK PRINTING</p>
           <p className="opacity-60">Bagru, Online</p>
         </div>
-        <div className="mx-2 mb-6 lg:mb-0">
+        <div className="mx-[0.15rem] mb-6 lg:mb-0">
           <img
             className="w-[10rem] h-[14rem] lg:w-[14rem] lg:h-[18rem] hover:opacity-85"
             src="https://wabisabiproject.com/media/galleries/workshops/natural-dye/Natural_dyes_marks.JPG"
@@ -166,7 +164,16 @@ const ThirdComponent = () => {
           <p className="font-bold opacity-60">NATURAL DYE</p>
           <p className="opacity-60">Bagru, Delhi, Online</p>
         </div>
-        <div className="mx-2 mb-6 lg:mb-0">
+        <div className="mx-[0.15rem] mb-6 lg:mb-0">
+          <img
+            className="w-[10rem] h-[14rem] lg:w-[14rem] lg:h-[18rem] hover:opacity-85"
+            src="https://wabisabiproject.com/media/galleries/workshops/natural-dye-delhi/Indigo_vat_dyeing.jpg"
+            alt="img4"
+          />
+          <p className="font-bold opacity-60">NATURAL INDIGO</p>
+          <p className="opacity-60">Delhi, Online</p>
+        </div>
+        <div className="mx-[0.15rem] mb-6 lg:mt-6 lg:mb-0  md:mt-0">
           <img
             className="w-[10rem] h-[14rem] lg:w-[14rem] lg:h-[18rem] hover:opacity-85"
             src="https://wabisabiproject.com/media/galleries/workshops/natural-dye-delhi/Indigo_vat_dyeing.jpg"

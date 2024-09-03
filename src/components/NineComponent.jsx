@@ -32,12 +32,12 @@ const NineComponent = () => {
           <p className="text-white text-xl font-semibold font-sans mb-4">
           Curious Case of a Designer
           </p>
-          <p className="text-white text-xl font-sans mb-4">
+          <p className="text-white text-lg font-sans mb-4">
           Are you a designer trying to make sense of the complex structural
             maza of craft production in India? The sheer degree of diversity and
             specialisation of works can be daunting.
           </p>
-          <p className="text-white text-xs w-[90%]">
+          <p className="text-white text-lg w-[90%]">
           Our most extensive program will demystify it all for you.
           </p>
           </div>
