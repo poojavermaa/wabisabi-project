@@ -5,7 +5,7 @@ const FourthComponent = () => {
     <>
       <div className="relative h-[75vh] bg-cover bg-center" style={{ backgroundImage: "url('https://i.postimg.cc/Nf3qdBhW/office-620822-1280.jpg')" }}>
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 text-center p-4">
-          <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif flex justify-center">Observation First, Intervention Later</p>
+          <p className="text-white text-xl md:text-xl lg:text-2xl font-semibold font-sans opacity-60 mb-4 flex justify-center">Observation First, Intervention Later</p>
           <p className="text-white text-sm md:text-lg mt-2 flex justify-center">We note that a teacher needs to be a good listener.</p>
           <p className="text-white text-xs md:text-base mt-4 w-[50%] flex justify-center">
             Our pursuit is to consciously nurture a space for you to observe,

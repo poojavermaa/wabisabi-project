@@ -21,10 +21,10 @@ const Collection = () => {
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="absolute inset-0 flex flex-col items-center justify-center p-4">
         <div className="flex items-center">
-          <div className="text-3xl md:text-4xl text-white text-center px-2">
+          <div className="text-[3rem] md:text-4xl text-white text-center font-thin px-2">
             COLLECTIONS
           </div>
-          <div className="h-1 w-3/4 md:w-96 bg-white mt-2 ml-2"></div>
+          <div className="h-1 lg:w-[50rem] md:w-[20rem] sm:w-[10rem] w-full bg-white mt-2 ml-2"></div>
         </div>
       </div>
     </div>
@@ -32,7 +32,7 @@ const Collection = () => {
     <div className="bg-[#972e34] p-4 sm:p-6 md:p-8 lg:p-10">
         <div className="flex flex-col md:flex-row">
           <div className="md:w-[65%] w-full my-8 md:my-16 md:mx-8 lg:mx-28">
-            <p className="text-white opacity-65 text-lg md:text-xl font-semibold font-sans mb-4">
+            <p className="text-white opacity-65 text-xl md:text-xl font-semibold font-sans mb-4">
               Our Collection is based on the core spirit of Jajam textile - to bring people togather.
             </p>
             <p className="my-8 md:my-14 text-white font-sans">

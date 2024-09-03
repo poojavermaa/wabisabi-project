@@ -11,7 +11,7 @@ const ElevenComponent = () => {
         }}
       >
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 text-center p-4">
-          <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold">
+          <p className="text-white text-xl opacity-65 mb-4 md:text-2xl lg:text-3xl font-semibold">
             What Does Not Look Glamorous
           </p>
           <p className="text-white text-sm md:text-lg mt-2">

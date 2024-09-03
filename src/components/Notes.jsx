@@ -22,7 +22,7 @@ const Notes = () => {
           <div className="text-3xl md:text-4xl text-white text-center px-2">
             NOTES
           </div>
-          <div className="h-1 w-3/4 md:w-96 bg-white mt-2 ml-2"></div>
+          <div className="h-1 lg:w-[50rem] md:w-[20rem] sm:w-[10rem] w-full bg-white mt-2 ml-2"></div>
         </div>
       </div>
     </div>

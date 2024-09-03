@@ -11,7 +11,7 @@ const SixthComponent = () => {
         }}
       >
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 text-center p-4">
-          <p className="text-white text-xl md:text-2xl lg:text-3xl font-semibold font-serif">
+          <p className="text-white text-xl md:text-2xl lg:text-3xl opacity-65 mb-4 font-semibold font-serif">
             Take Away
           </p>
           <p className="text-white text-sm md:text-lg mt-2">
