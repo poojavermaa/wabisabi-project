@@ -1,29 +1,3 @@
-// import React from "react";
-
-// const Footer2 = () => {
-//     return(
-//         <>
-//             <div className="bg-[#404040] h-auto flex px-32">
-//                 <div className="w-[38rem] pt-10">
-//                     <p className="text-white">Over the years, working with Nature has helped us realise 'less is more and usually more effective'. We intend to continue working hard to make simple systems more sophisticated.</p>
-//                 </div>
-//                 <div className="w-[24rem] pt-10 items-center pl-[8rem]">
-//                     <p className="text-white">PROJECTS</p>
-//                     <p className="text-white">Jajam</p>
-//                 </div>
-//                 <div className="pt-10">
-//                     <p className="text-white">PLATFORM</p>
-//                     <p className="text-white">WorkShops</p>
-//                     <p className="text-white">Collections</p>
-//                     <p className="text-white">Notes</p>
-//                 </div>
-//             </div>
-//         </>
-//     );
-// };
-
-// export default Footer2;
-
 import React from "react";
 
 const Footer2 = () => {

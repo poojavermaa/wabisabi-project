@@ -26,7 +26,6 @@ const Login = () => {
           </div>
         </div>
 
-        {/* Adding a relative container for footers */}
         <div className="relative flex flex-col">
           <div>
             <LoginFooter />
