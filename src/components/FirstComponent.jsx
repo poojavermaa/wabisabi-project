@@ -14,7 +14,7 @@ const FirstComponent = () => {
           <div className="lg:text-[3rem] md:text-6xl sm:text-[6rem] mt-4 text-white text-center px-2 font-sans text-3xl font-thin lg:ml-[4.3rem]">
             WORKSHOPS
           </div>
-          <div className="h-1 lg:w-[46rem] md:w-[20rem] sm:w-[10rem] w-full bg-white mt-3"></div>
+          <div className="h-1 lg:w-[44rem] md:w-[20rem] sm:w-[10rem] w-full bg-white mt-3"></div>
         </div>
       </div>
     </div>
